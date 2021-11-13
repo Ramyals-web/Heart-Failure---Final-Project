@@ -29,7 +29,7 @@ What is LVH on an ECG? Left ventricular hypertrophy (LVH), also known as an enla
 **MaxHR** - Maximum Heart Rate: The increase in the cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. An increase in heart rate by 10 beats per minute was associated with an increase in the risk of cardiac death by at least 20%, and this increase in the risk is similar to the one observed with an increase in systolic blood pressure by 10 mm Hg.
 ​
 **Oldpeak** --  This input field means ST depression induced by exercise relative to rest. Old peak field has 3 fuzzy sets (Low, Risk and Terrible). These fuzzy sets have been shown in Table 5 with their ranges. Membership functions of “Low” and “Terrible” fuzzy sets are trapezoidal and membership function of “Risk” fuzzy set is triangular that have been shown. 
-[Images of Old peak and ST_slope/Old peak.png]
+![](Old peak.png)
 
 
 **ST_slope** -- The ST segment shift relative to exercise-induced increments in heart rate, the ST/heart rate slope (ST/HR slope), has been proposed as a more accurate ECG criterion for diagnosing significant coronary artery disease (CAD).
@@ -40,7 +40,7 @@ Morphology of ST Depression
 •	ST depression ≥ 1 mm is more specific and conveys a worse prognosis.
 •	ST depression ≥ 2 mm in ≥ 3 leads is associated with a high probability of NSTEMI and predicts significant mortality (35% mortality at 30 days).
 •	Upsloping ST depression is non-specific for myocardial ischaemia.
-[Images of Old peak and ST_slope/ST_slope description.png]
+![](ST_slope description.png)
 
 
 
